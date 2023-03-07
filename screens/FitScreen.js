@@ -211,4 +211,5 @@ const FitScreen = () => {
 
 export default FitScreen;
 
+
 const styles = StyleSheet.create({});

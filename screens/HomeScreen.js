@@ -1,3 +1,4 @@
+
 import { StyleSheet, Text, View, SafeAreaView, Image,ScrollView } from "react-native";
 import React ,{useContext} from "react";
 import FitnessCards from "../components/FitnessCards";

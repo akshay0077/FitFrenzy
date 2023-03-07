@@ -1,3 +1,4 @@
+
 import { StyleSheet, Text, View, SafeAreaView, Image } from "react-native";
 import React, { useState, useEffect } from "react";
 import { useNavigation } from "@react-navigation/native";
