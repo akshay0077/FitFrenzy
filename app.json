@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fitness-project",
-    "slug": "fitness-project",
+    "name": "FitFrenzy",
+    "slug": "FitFrenzy",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
